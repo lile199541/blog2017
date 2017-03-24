@@ -2,8 +2,8 @@
 
 ## 制作过程
 
-1.制作一个repo
-2.新建一个index.html
+1. 制作一个repo
+2. 新建一个index.html
 
 ## 如何预览
 
