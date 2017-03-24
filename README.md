@@ -7,4 +7,4 @@
 
 ## 如何预览
 
-点击https://github.com/lile199541/blog2017 即可预览
+点击https://github.com/lile199541/blog2017/ 即可预览
